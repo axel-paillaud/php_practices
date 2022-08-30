@@ -1,0 +1,81 @@
+@font-face {
+    font-family: NovaMono;
+    src: url(Nova_Mono/NovaMono-Regular.ttf);
+}
+
+@font-face {
+    font-family: Lato-regular;
+    src: url(Lato/Lato-Regular.ttf);
+}
+
+@font-face {
+    font-family: Lato-bold;
+    src: url(Lato/Lato-Bold.ttf);
+}
+
+body {
+    margin: 0;
+}
+
+.main {
+    font-family: Lato-regular;
+    font-size: 16px;
+    line-height: 1.4;
+    width: 100%;
+}
+
+.title-recipe {
+    font-family: Lato-bold;
+}
+
+
+.title-big {
+    font-family: NovaMono;
+}
+
+
+.nav-list {
+    list-style-type: none;
+}
+
+.nav-link {
+    float: left;
+    margin-left: 10px;
+}
+
+.button-nav {
+    padding: 0.5em 1em;
+}
+
+.header {
+    background-color:rgb(223, 223, 192);
+    padding: 20px;
+    width: 100%;
+}
+
+
+.form-login {
+    padding: 20px;
+}
+
+.form-1 {
+    margin: 30px 5px;
+}
+
+.form-label {
+    margin: 5px 0;
+}
+
+.main {
+    background-color:beige;
+}
+
+.footer {
+    background-color: rgb(223, 223, 192);
+    padding: 20px;
+    text-align: center;
+
+}
+
+
+
